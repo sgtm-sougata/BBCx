@@ -1,0 +1,24 @@
+site_name: BBCx
+theme:
+  name: material
+
+site_author: Depeartment of Radiotherapy
+# Repository
+repo_name: CHAVI/BBCx
+repo_url: https://github.com/
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/
+
+
+copyright: |
+  &copy; <a href="https://github.com/"  target="_blank" rel="noopener">Dep. of Radiotherapy <br> Tata Medical Center, Kolkata</a>
